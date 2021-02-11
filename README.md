@@ -1,4 +1,4 @@
-# Machine-Learning-Fall-2020-
+# Machine Learning-Fall-2020
 NTU course
 Course link : https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/
 
