@@ -9,6 +9,5 @@ Machine Learning Techniques
  - Homework 5 , 6
  - Final Project 
  
- *For Reference Only
- Handwriting solutions
+ *My handwriting solutions (for reference only)
  
