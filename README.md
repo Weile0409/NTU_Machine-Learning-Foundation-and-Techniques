@@ -10,5 +10,5 @@ Machine Learning Techniques
  - Final Project 
  
  *For Reference Only
- *Handwriting solutions
+ Handwriting solutions
  
