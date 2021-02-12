@@ -1,5 +1,5 @@
 # NTU Machine Learning Foundation & Techniques \(Fall 2020)
-NTU course
+109-1\
 Course link : https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/
 
 Machine Learning Foundation
